@@ -26,7 +26,7 @@ BWT is a reversible text transformation that rearranges sequence characters to g
 
 ### 1. Prepare Input
 
-The inputs for the algorithms are one or two strings Text and a stirng list patterns, depending on script being used:
+The inputs for the algorithms are one or two strings Text and a list of string patterns, depending on script being used:
 
 - `suffix_tree.py` requires one string Text, while `generalized_suffix_tree.py` uses two.
 - `suffix_array_matching.py`, `bwt_matching.py`, and `better_bwt_matching.py` require a string Text and a string Pattern
