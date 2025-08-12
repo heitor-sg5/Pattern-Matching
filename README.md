@@ -147,38 +147,34 @@ Parameters Text, Pattern(s) and mismatches (d) can be changed at bottom of each 
 ## 🧪 Example Output
 
 Pattern 'AAAGGGCTAT' occurs at positions: [169]
+
 Pattern 'AGCAAAGGGC' occurs at positions: [104]
+
 Pattern 'AGGGCTATGA' occurs at positions: [131, 171]
+
 Pattern 'ATCCGAGCCA' occurs at positions: [177]
+
 Pattern 'ATGCGCCGGA' occurs at positions: [90, 195]
+
 Pattern 'CAAAGGGCTA' occurs at positions: [168]
-Pattern 'CACTCGGGGA' occurs at positions: [53]
-Pattern 'CACTGGCCTC' occurs at positions: [159]
-Pattern 'CAGCAAAGGG' occurs at positions: [103]
-Pattern 'CCCGGCATCA' occurs at positions: [101]
-Pattern 'CGGTCGCGGT' occurs at positions: [187]
-Pattern 'CGTGGTGTGT' occurs at positions: [198]
+
 Pattern 'CTGGCCTCTT' occurs at positions: [57]
+
 Pattern 'CTGGCTTTCG' occurs at positions: [33, 144]
+
 Pattern 'CTGTCACTGG' occurs at positions: [67]
+
 Pattern 'CTTGGCCGCG' occurs at positions: [31, 80]
-Pattern 'CTTTCGCTGT' occurs at positions: [61]
-Pattern 'GACGGTCGCG' occurs at positions: [185]
-Pattern 'GAGCCAGGCT' occurs at positions: [103]
-Pattern 'GATCCGAGCC' occurs at positions: [176]
-Pattern 'GCTCCTACGT' occurs at positions: [66]
-Pattern 'GCTGTCACTG' occurs at positions: [66]
-Pattern 'GCTTTCGCTG' occurs at positions: [60]
+
 Pattern 'GGGCTATGAG' occurs at positions: [58, 172]
+
 Pattern 'GGTCGCGGTC' occurs at positions: [188, 194]
+
 Pattern 'GTCGCGGTCC' occurs at positions: [189]
+
 Pattern 'GTGGTGTGTT' occurs at positions: [67, 144]
-Pattern 'TAACACTCGG' occurs at positions: [115]
-Pattern 'TACGTCCCAG' occurs at positions: [115]
-Pattern 'TTCGCTGTCA' occurs at positions: [63, 195]
-Pattern 'TTGCCTGTTT' occurs at positions: [17, 73]
+
 Pattern 'TTGGCCGCGA' occurs at positions: [32, 81]
-Pattern 'TTTCGCTGTC' occurs at positions: [62]
 
 ---
 
